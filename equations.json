@@ -53,7 +53,7 @@
         "op2": "z = 3",
         "op3": "z = -3",
         "op4": "z = -9",
-        "correcta": 2
+        "correcta": 1
     },
     {
         "pregunta":"x - k = k - x",
