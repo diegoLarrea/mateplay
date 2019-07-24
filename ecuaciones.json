@@ -1,0 +1,83 @@
+[
+    {
+        "pregunta":"2x + 5=0",
+        "op1": "x = 5",
+        "op2": "x = -2.5",
+        "op3": "x = 10",
+        "op4": "x = 0",
+        "correcta": 2
+    },
+    {
+        "pregunta":"4x - 16=0",
+        "op1": "x = 4",
+        "op2": "x = -4",
+        "op3": "x = 16",
+        "op4": "x = -16",
+        "correcta": 1
+    },
+    {
+        "pregunta":"2x - y=0, y - 5 = 5",
+        "op1": "y = 10, x = 5",
+        "op2": "y = 5, x = 10",
+        "op3": "y = 10, x = 10",
+        "op4": "y = 5, x = 5",
+        "correcta": 1
+    },
+    {
+        "pregunta":"6x - 5 = 4 + 3x",
+        "op1": "x = 9",
+        "op2": "x = -3",
+        "op3": "x = 3",
+        "op4": "x = 4",
+        "correcta": 3
+    },
+    {
+        "pregunta":"y - 5 = 2y -10",
+        "op1": "y = 4",
+        "op2": "y = 10",
+        "op3": "y = 15",
+        "op4": "y = 5",
+        "correcta": 4
+    },
+    {
+        "pregunta":"7 - 14y=0",
+        "op1": "y = 0.5",
+        "op2": "y = 2",
+        "op3": "y = 7",
+        "op4": "y = 14",
+        "correcta": 1
+    },
+    {
+        "pregunta":"z + 5 = 10z - 22",
+        "op1": "z = 9",
+        "op2": "z = 3",
+        "op3": "z = -3",
+        "op4": "z = -9",
+        "correcta": 1
+    },
+    {
+        "pregunta":"x - 3 = 3 - x",
+        "op1": "x = -3",
+        "op2": "x = 2",
+        "op3": "x = 3",
+        "op4": "x = 6",
+        "correcta": 3
+    },
+    {
+        "pregunta":"2z - 3 = 11",
+        "op1": "x = -7",
+        "op2": "x = 7",
+        "op3": "x = 3",
+        "op4": "x = 8",
+        "correcta": 2
+    },
+    {
+        "pregunta":"5x - 1 = 2x - 10",
+        "op1": "x = -3",
+        "op2": "x = 3",
+        "op3": "x = 6",
+        "op4": "x = 9",
+        "correcta": 1
+    }
+       
+]
